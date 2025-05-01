@@ -6,8 +6,6 @@ import { Container, Nav, Navbar, NavDropdown, Card, Col, Row  } from "react-boot
 //impot image
 import ReactImage from "./assets/react.svg";
 
-
-
 function App() {
   return (
     <>
